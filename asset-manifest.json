@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "./static/js/main.e6dd2c50.chunk.js",
-    "main.js.map": "./static/js/main.e6dd2c50.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.685f0d06.js",
-    "runtime-main.js.map": "./static/js/runtime-main.685f0d06.js.map",
-    "static/js/2.0c60f3ef.chunk.js": "./static/js/2.0c60f3ef.chunk.js",
-    "static/js/2.0c60f3ef.chunk.js.map": "./static/js/2.0c60f3ef.chunk.js.map",
-    "static/js/3.8c342d05.chunk.js": "./static/js/3.8c342d05.chunk.js",
-    "static/js/3.8c342d05.chunk.js.map": "./static/js/3.8c342d05.chunk.js.map",
-    "index.html": "./index.html",
-    "static/js/2.0c60f3ef.chunk.js.LICENSE.txt": "./static/js/2.0c60f3ef.chunk.js.LICENSE.txt",
-    "static/media/football.2416e0c2.bin": "./static/media/football.2416e0c2.bin",
-    "static/media/world.4ab18d94.jpg": "./static/media/world.4ab18d94.jpg"
+    "main.js": "/sonhobets/static/js/main.19e65b27.chunk.js",
+    "main.js.map": "/sonhobets/static/js/main.19e65b27.chunk.js.map",
+    "runtime-main.js": "/sonhobets/static/js/runtime-main.60687565.js",
+    "runtime-main.js.map": "/sonhobets/static/js/runtime-main.60687565.js.map",
+    "static/js/2.56b23ec6.chunk.js": "/sonhobets/static/js/2.56b23ec6.chunk.js",
+    "static/js/2.56b23ec6.chunk.js.map": "/sonhobets/static/js/2.56b23ec6.chunk.js.map",
+    "static/js/3.8c342d05.chunk.js": "/sonhobets/static/js/3.8c342d05.chunk.js",
+    "static/js/3.8c342d05.chunk.js.map": "/sonhobets/static/js/3.8c342d05.chunk.js.map",
+    "index.html": "/sonhobets/index.html",
+    "static/js/2.56b23ec6.chunk.js.LICENSE.txt": "/sonhobets/static/js/2.56b23ec6.chunk.js.LICENSE.txt",
+    "static/media/football.2416e0c2.bin": "/sonhobets/static/media/football.2416e0c2.bin",
+    "static/media/world.4ab18d94.jpg": "/sonhobets/static/media/world.4ab18d94.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.685f0d06.js",
-    "static/js/2.0c60f3ef.chunk.js",
-    "static/js/main.e6dd2c50.chunk.js"
+    "static/js/runtime-main.60687565.js",
+    "static/js/2.56b23ec6.chunk.js",
+    "static/js/main.19e65b27.chunk.js"
   ]
 }
